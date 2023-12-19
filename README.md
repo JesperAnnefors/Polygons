@@ -1,2 +1,2 @@
 # Polygons
-A simple version of the Asteroids video game with polygons.
+A simple version of the Asteroids video game, but with polygons!
